@@ -35,4 +35,5 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Storesrc/main/java/com/cogent/banking/console/app/util/Connection.java
+src/main/java/com/cogent/banking/console/app/util/Connection.java
